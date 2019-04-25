@@ -12,7 +12,7 @@ To learn and prosper
 
 #Deployment
 
-no thanks
+No thanks
 
 #How To Contribute
 
